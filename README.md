@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on **Coding Minecraft Mods or Discord Bots**
 - 🤔 I’m looking for help with **Java** & **JavaScript**
 - 💬 Ask me about **anything related to coding...**
-- 📫 How to reach me: **Github** & **Discord ~~AaryanKh#2836~~**
+- 📫 How to reach me: **[GitHub](https://github.com/AaryanKhClasses)** & **Discord *AaryanKh#2836***
 - 😄 Pronouns: **He/him**
 ![Profile Views](https://komarev.com/ghpvc/?username=AaryanKhClasses)
 
