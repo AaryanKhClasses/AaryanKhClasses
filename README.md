@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on **Discord Bot [Bacc](https://github.com/AaryanKhClasses/Bacc)**
+- 🔭 I’m currently working on **some project**
 - 🌱 I’m currently learning **Java and Javascript**
-- 👯 I’m looking to collaborate on **Coding Minecraft Mods or Discord Bots**
+- 👯 I’m looking to collaborate on **Coding**
 - 🤔 I’m looking for help with **Java** & **JavaScript**
 - 💬 Ask me about **anything related to coding...**
-- 📫 How to reach me: **[GitHub](https://github.com/AaryanKhClasses)** & **Discord *AaryanKh#4532***
+- 📫 How to reach me: **[GitHub](https://github.com/AaryanKhClasses)**
 - 😄 Pronouns: **He/him**
 ![Profile Views](https://komarev.com/ghpvc/?username=AaryanKhClasses)
 
