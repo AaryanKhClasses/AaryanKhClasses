@@ -32,7 +32,7 @@
 ---
 [Profile Views]:https://komarev.com/ghpvc/?username=AaryanKhClasses&style=flat-square
 [AaryanKh's Github Stats]:https://github-readme-stats.vercel.app/api?username=AaryanKhClasses&theme=tokyonight&show_icons=true
-[Top langs]:https://github-readme-stats.vercel.app/api/top-langs/?username=AaryanKhClasses&langs_count=8&theme=tokyonight&layout=compact
+[Top langs]:https://github-readme-stats.vercel.app/api/top-langs/?username=AaryanKhClasses&langs_count=10&theme=tokyonight&layout=compact
 [Trophies]:https://github-profile-trophy.vercel.app/?username=AaryanKhClasses&theme=onedark
 [AaryanKh's Github Contribution Streak]:https://github-readme-streak-stats.herokuapp.com/?user=AaryanKhClasses&theme=slateorange
 [VScode]:https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visual-studio-code
