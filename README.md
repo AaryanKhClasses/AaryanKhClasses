@@ -22,7 +22,7 @@
 |[![Visual Studio]](https://visualstudio.com)|[![C#]](https://docs.microsoft.com/en-us/dotnet/csharp/)|
 
 ### Other Tools:
-[![Heroku]](https://heroku.com) [![Githubbadge]](https://github.com) [![DiscordBadge]](https://discord.com)  [![NPM]]()
+[![Heroku]](https://heroku.com) [![Githubbadge]](https://github.com) [![DiscordBadge]](https://discord.com)  [![NPM]](https://npmjs.com) [![Mongo]](https://mongodb.com)
 
 ### Socials:
 [![GithubBadge]](https://github.com/AaryanKhClasses)
@@ -48,3 +48,4 @@
 [Github]:https://github.com/AaryanKhClasses
 [Discord]:https://dsc.gg/bacc
 [NPM]:https://img.shields.io/badge/NPM-red?style=for-the-badge&logo=npm&logoColor=white
+[Mongo]:https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white 
