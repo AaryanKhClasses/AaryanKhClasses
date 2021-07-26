@@ -3,10 +3,10 @@
 - Hai I'm **AaryanKh** (aka Bacc) and I'm a programmer who codes in **Javascript**, **Python** and **C#**. I'm also learning **Typescript** and **Java**. I have a [Discord] account where you can contact me. I am also looking forward to collaborate on **coding**. You can ask me any questions regarding **coding**. Thanks. ![Profile Views]
 
 - ### My Github Statistics:
-![AaryanKh's GitHub stats]
+[![AaryanKh's GitHub stats]](https://github-readme-stats.vercel.app/)
 
 - ### My most used languages!
-![Top Langs]
+[![Top Langs]](https://github-readme-stats.vercel.app/)
 
 - ### My Trophies:
 [![Trophies]](https://github.com/ryo-ma/github-profile-trophy)
