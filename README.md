@@ -9,7 +9,7 @@
 ![Top Langs]
 
 - ### My Trophies:
-[![Trophies]](https://github-profile-trophy.vercel.app)
+[![Trophies]](https://github.com/ryo-ma/github-profile-trophy)
 
 - ### My Github Contribution Streak:
 ![AaryanKh's Github Contribution Streak]
