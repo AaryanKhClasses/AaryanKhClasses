@@ -9,7 +9,7 @@
 ![Top Langs]
 
 - ### My Trophies:
-![Trophies]
+[![Trophies]](https://github-profile-trophy.vercel.app)
 
 - ### My Github Contribution Streak:
 ![AaryanKh's Github Contribution Streak]
