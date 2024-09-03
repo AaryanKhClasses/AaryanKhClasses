@@ -1,52 +1,50 @@
-# :wave: Hi all I'm AaryanKh(aka Bacc)
-### About me:
-- Hai I'm **AaryanKh** (aka Bacc) and I'm a programmer who codes in **Javascript**, **Python** and **C#**. I'm also learning **Typescript** and **Java**. I have a [Discord] account where you can contact me. I am also looking forward to collaborate on **coding**. You can ask me any questions regarding **coding**. Thanks. ![Profile Views]
+## 👋 Hello There! I'm Aaryan!
+Hey, my name is AaryanKh and I'm a self-taught backend developer from India 🇮🇳. I'm currently doing my B.Tech in Computer Science and Engineering.
 
-- ### My Github Statistics:
-[![AaryanKh's GitHub stats]](https://github-readme-stats.vercel.app/)
-
-- ### My most used languages!
-[![Top Langs]](https://github-readme-stats.vercel.app/)
-
-- ### My Trophies:
-[![Trophies]](https://github.com/ryo-ma/github-profile-trophy)
-
-- ### My Github Contribution Streak:
-![AaryanKh's Github Contribution Streak]
+### About Me:
+ - I have been coding since the last 5 years.
+ - I primarily do ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E).
+ - Currently leaning ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) and ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) as part of educational curriculum.
+ - I suck at Frontend.
+ - Ask me anything [here](https://github.com/AaryanKhClasses/AaryanKhClasses/issues)
 
 ### Tools I Use:
-|Tool|Use|
-|----|---|
-|[![VSCode]](https://code.visualstudio.com)|[![Javascript]](https://javascript.com/) [![Python]](https://python.org)|
-|[![IntelliJ]](https://jetbrains.com/idea/)|[![Java]](https://java.com)|
-|[![Visual Studio]](https://visualstudio.com)|[![C#]](https://docs.microsoft.com/en-us/dotnet/csharp/)|
+IDEs:
 
-### Other Tools:
-[![Heroku]](https://heroku.com) [![Githubbadge]](https://github.com) [![DiscordBadge]](https://discord.com)  [![NPM]](https://npmjs.com) [![Mongo]](https://mongodb.com) [![Wakatime]](https://wakatime.com)
+![VS Code Insiders](https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
-### Socials:
-[![GithubBadge]](https://github.com/AaryanKhClasses)
-[![DiscordBadge]](https://dsc.gg/bacc)
+Languages:
 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
----
-[Profile Views]:https://komarev.com/ghpvc/?username=AaryanKhClasses&style=flat-square
-[AaryanKh's Github Stats]:https://github-readme-stats.vercel.app/api?username=AaryanKhClasses&theme=tokyonight&show_icons=true
-[Top langs]:https://github-readme-stats.vercel.app/api/top-langs/?username=AaryanKhClasses&langs_count=10&theme=tokyonight&layout=compact
-[Trophies]:https://github-profile-trophy.vercel.app/?username=AaryanKhClasses&theme=onedark&column=4
-[AaryanKh's Github Contribution Streak]:https://github-readme-streak-stats.herokuapp.com/?user=AaryanKhClasses&theme=slateorange
-[VScode]:https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visual-studio-code
-[Javascript]:https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=%23F7DF1C
-[Python]:https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-[Java]:https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white
-[C#]:https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp#&logoColor=white
-[IntelliJ]:https://img.shields.io/badge/IntelliJ-%23fe315d?style=for-the-badge&logo=intellij-idea
-[Visual Studio]:https://img.shields.io/badge/Visual_Studio-%236e64c3?style=for-the-badge&logo=visual-studio
-[Heroku]:https://img.shields.io/badge/Heroku-%236e64c3?style=for-the-badge&logo=heroku
-[DiscordBadge]:https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
-[GithubBadge]:https://img.shields.io/badge/Github-333333?style=for-the-badge&logo=github
-[Github]:https://github.com/AaryanKhClasses
-[Discord]:https://dsc.gg/bacc
-[NPM]:https://img.shields.io/badge/NPM-red?style=for-the-badge&logo=npm&logoColor=white
-[Mongo]:https://img.shields.io/badge/MongoDB-52A74B?style=for-the-badge&logo=mongodb&logoColor=white
-[Wakatime]:https://img.shields.io/badge/WakaTime-black?style=for-the-badge&logo=wakatime&logoColor=white
+Frameworks:
+
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+Other Tools:
+
+ ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white) ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)    ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+ 
+Other Websites:
+
+![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)  ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+
+### My Stats:
+
+GitHub Stats:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaryankhclasses&theme=cobalt&count_private=true&show_icons=true&include_all_commits=true)
+
+Most Used Languages:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaryankhclasses&layout=compact)
+
+GitHub Trophies:
+
+![trophy](https://github-profile-trophy.vercel.app/?username=aaryankhclasses&theme=onedark&column=5)
+
+Contribution Streak:
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aaryankhclasses&theme=dark&hide_border=true)
+
+Profile Views: ![](https://komarev.com/ghpvc/?username=AaryanKhClasses&style=flat-square)
