@@ -2,10 +2,10 @@
 Hey, my name is AaryanKh and I'm a self-taught backend developer from India 🇮🇳. I'm currently doing my B.Tech in Computer Science and Engineering.
 
 ### About Me:
- - I have been coding since the last 5 years.
- - I primarily do ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E).
+ - I have been coding since the last 6 years.
+ - I primarily do ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white).
  - Currently leaning ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) and ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) as part of educational curriculum.
- - I suck at Frontend.
+ - I suck at Frontend (Trying to learn it ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge).
  - Ask me anything [here](https://github.com/AaryanKhClasses/AaryanKhClasses/issues)
 
 ### Tools I Use:
@@ -19,7 +19,7 @@ Languages:
 
 Frameworks:
 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff&style=for-the-badge)
 
 Other Tools:
 
@@ -45,6 +45,6 @@ GitHub Trophies:
 
 Contribution Streak:
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aaryankhclasses&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=AaryanKhClasses&theme=dark)
 
 Profile Views: ![](https://komarev.com/ghpvc/?username=AaryanKhClasses&style=flat-square)
